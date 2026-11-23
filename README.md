@@ -62,10 +62,10 @@
 ### 📊 GitHub Activity & Telemetry
 
 <!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenil-M-patel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Kenil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenil-M-patel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Kenil's GitHub Stats" /> -->
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenil-M-patel&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-</div> -->
+</div> 
 
 <div align="center">
   <br/>
